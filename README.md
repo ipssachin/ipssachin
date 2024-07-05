@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Jadhav</h1>
-<h3 align="center">A</h3>
+<h3 align="center">A Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipssachin&label=Profile%20views&color=0e75b6&style=flat" alt="ipssachin" /> </p>
 
@@ -19,11 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="s" height="30" width="40" /></a>
 <a href="https://twitter.com/ipssachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipssachin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sss" height="30" width="40" /></a>
-<a href="https://kaggle.com/sss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sss" height="30" width="40" /></a>
-<a href="https://instagram.com/sss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-jadhav-lci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sss" height="30" width="40" /></a>
+<a href="https://instagram.com/xonerobotics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
